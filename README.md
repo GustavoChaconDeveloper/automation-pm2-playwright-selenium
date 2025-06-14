@@ -28,7 +28,7 @@ Cada processo é monitorado em tempo real e reiniciado automaticamente em caso d
 
 ### 🖥️ Exemplo de execução com PM2
 
-![Execução com PM2]([./caminho/para/imagem.png](https://img001.prntscr.com/file/img001/MrV2e4Q1R-K4_cbVuq_MnA.png))
+![Execução com PM2]([https://img001.prntscr.com/file/img001/MrV2e4Q1R-K4_cbVuq_MnA.png])
 
 ---
 
